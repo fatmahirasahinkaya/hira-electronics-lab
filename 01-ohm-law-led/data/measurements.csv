@@ -1,0 +1,4 @@
+resistor_ohm,v_resistor_V,current_mA,notes
+220,2.34,10.6,"I = V_R / R"
+1000,2.64,2.64,"I = V_R / R"
+10000,2.85,0.285,"I = V_R / R"
